@@ -2,38 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/AddTwoNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Atoi.java" afterPath="$PROJECT_DIR$/src/Atoi.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Convert.java" afterPath="$PROJECT_DIR$/src/Convert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindSubstring.java" afterPath="$PROJECT_DIR$/src/FindSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LengthOfLongestSubstring.java" afterPath="$PROJECT_DIR$/src/LengthOfLongestSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/LongestPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestValidParenthes.java" afterPath="$PROJECT_DIR$/src/LongestValidParenthes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MergeKLists.java" afterPath="$PROJECT_DIR$/src/MergeKLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NextPermutation.java" afterPath="$PROJECT_DIR$/src/NextPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PalindromePartitioning.java" afterPath="$PROJECT_DIR$/src/PalindromePartitioning.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveElement.java" afterPath="$PROJECT_DIR$/src/RemoveElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Reverse.java" afterPath="$PROJECT_DIR$/src/Reverse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseInK.java" afterPath="$PROJECT_DIR$/src/ReverseInK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchForARange.java" afterPath="$PROJECT_DIR$/src/SearchForARange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInASortedArray.java" afterPath="$PROJECT_DIR$/src/SearchInASortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInsert.java" afterPath="$PROJECT_DIR$/src/SearchInsert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/StrStr.java" afterPath="$PROJECT_DIR$/src/StrStr.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SubsetsWithDup.java" afterPath="$PROJECT_DIR$/src/SubsetsWithDup.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SwapPairs.java" afterPath="$PROJECT_DIR$/src/SwapPairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSum.java" afterPath="$PROJECT_DIR$/src/TwoSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidSudoku.java" afterPath="$PROJECT_DIR$/src/ValidSudoku.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BuildTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GenerateParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeThreeLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381149761073" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
+    <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
+    <file path="/GenerateParentheses.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381173636236" ignored="false" />
+    <file path="/MergeThreeLists.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381174752219" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,24 +73,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SearchInsert.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SearchInsert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StrStr.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SubsetsWithDup.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SubsetsWithDup.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,22 +85,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwapPairs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwapPairs.java">
+      <file leaf-file-name="BinaryTreeInorderTraversal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="19" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+            <state line="9" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#251#261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuildTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="25" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#buildTree#0;class#BuildTree#0" expanded="true" />
+                <element signature="method#buildTreeUtil#0;class#BuildTree#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateParentheses.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenerateParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="17" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#generateParenthesis#0;class#GenerateParentheses#0" expanded="true" />
+                <element signature="e#573#581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeThreeLists.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeThreeLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="12" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeInorderTraversal.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
+      <file leaf-file-name="LongestPalindrome.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LongestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="0.24548736">
+            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#251#261#0" expanded="true" />
+                <element signature="method#longestPalindrome#0;class#LongestPalindrome#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,15 +171,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="14" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ValidSudoku.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ValidSudoku.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -209,9 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/NextPermutation.java" />
-        <option value="$PROJECT_DIR$/src/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/Reverse.java" />
         <option value="$PROJECT_DIR$/src/SearchForARange.java" />
         <option value="$PROJECT_DIR$/src/SearchInASortedArray.java" />
@@ -225,13 +211,16 @@
         <option value="$PROJECT_DIR$/src/SubsetsWithDup.java" />
         <option value="$PROJECT_DIR$/src/ValidSudoku.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/BuildTree.java" />
+        <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/MergeThreeLists.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="723" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -421,7 +410,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="723" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="722" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -505,34 +494,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="16" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchForARange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
@@ -618,10 +579,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="0.24548736">
+        <state line="9" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#251#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#buildTree#0;class#BuildTree#0" expanded="true" />
+            <element signature="method#buildTreeUtil#0;class#BuildTree#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#generateParenthesis#0;class#GenerateParentheses#0" expanded="true" />
+            <element signature="e#573#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeThreeLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#longestPalindrome#0;class#LongestPalindrome#0" expanded="true" />
           </folding>
         </state>
       </provider>
