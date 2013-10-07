@@ -1,4 +1,4 @@
-public class Solution {
+public class Convert {
    public String convert(String s, int nRows) {
         String[] sr=new String[nRows];
         for(int i=0;i<nRows;i++) {

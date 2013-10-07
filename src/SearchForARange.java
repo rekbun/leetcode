@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchForARange {
     private int findLow(int[] src,int k,int s,int e) {
 		while (s<=e) {
 			int mid=(s+e)/2;

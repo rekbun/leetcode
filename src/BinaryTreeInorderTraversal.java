@@ -1,13 +1,8 @@
-/**
- * Definition for binary tree
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-public class Solution {
+import java.util.ArrayList;
+import java.util.Stack;
+
+
+public class BinaryTreeInorderTraversal {
    public ArrayList<Integer> inorderTraversal(TreeNode root) {
 		if(root==null) {
 			return new ArrayList<Integer>();

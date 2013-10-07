@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchInASortedArray {
     private int findPivot(int[] src,int s,int e ) {
 		while(s<e) {
 			int mid=(s+e)/2;

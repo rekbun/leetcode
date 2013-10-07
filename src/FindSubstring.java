@@ -1,9 +1,12 @@
-public class Solution {
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class FindSubstring {
     public ArrayList<Integer> findSubstring(String src,String[] lists) {
 		if(src==null || src.length()==0) {
 			return null;
 		}
-		HashMap<String,Integer>  map= new HashMap<String, Integer>();
+		HashMap<String,Integer> map= new HashMap<String, Integer>();
 		for(int i=0;i<lists.length;i++) {
 			if(map.containsKey(lists[i])) {
 				map.put(lists[i],map.get(lists[i])+1);

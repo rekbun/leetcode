@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /*
  * Definition for singly-linked list.
  * public class ListNode {
@@ -9,7 +11,7 @@
  *     }
  * }
  */
-public class Solution {
+public class MergeKLists {
     private ListNode mergeList(ListNode list1,ListNode list2) {
         ListNode head= list1;
         ListNode last=null;

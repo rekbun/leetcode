@@ -1,4 +1,4 @@
-public class Solution {
+public class StrStr {
    	public String strStr(String haystack,String needle) {
 		if(haystack==null || needle==null)  {
 			return null;

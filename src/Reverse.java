@@ -1,4 +1,4 @@
-public class Solution {
+public class Reverse {
     public int reverse(int x) {
        int y=0;
        int sign=1;

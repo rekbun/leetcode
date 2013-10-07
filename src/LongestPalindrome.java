@@ -1,4 +1,4 @@
-public class Solution {
+public class LongestPalindrome {
      int lp[][]=new int[1000][1000];
         
      public String longestPalindrome(String s)

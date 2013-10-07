@@ -1,4 +1,4 @@
-public class Solution {
+public class Atoi {
         public int atoi(String str) {
                 int i=0;
                 if(str==null|| str.isEmpty()) {

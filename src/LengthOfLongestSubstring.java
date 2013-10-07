@@ -1,4 +1,4 @@
-public class Solution {
+public class LengthOfLongestSubstring {
     public int lengthOfLongestSubstring(String src)
     {
         int []lookup= new int[26];

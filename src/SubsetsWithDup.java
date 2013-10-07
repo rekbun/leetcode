@@ -1,4 +1,6 @@
-public class Solution {
+import java.util.*;
+
+public class SubsetsWithDup {
     public ArrayList<ArrayList<Integer>> subsetsWithDup(int [] src) {
 		Arrays.sort(src);
 		HashMap<ArrayList<Integer>,Boolean> map=new HashMap<ArrayList<Integer>, Boolean>();

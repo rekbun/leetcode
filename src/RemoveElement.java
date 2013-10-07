@@ -1,4 +1,4 @@
-public class Solution {
+public class RemoveElement {
     public int removeElement(int [] src,int k) {
 		if(src==null || src.length==0 ) {
 			return 0;

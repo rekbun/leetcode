@@ -1,4 +1,6 @@
-public class Solution {
+import java.util.HashMap;
+
+public class ValidSudoku {
     private boolean check(char[] chars) {
 		HashMap<Character,Integer> map= new HashMap<Character, Integer>();
 		for(int i=0;i<chars.length;i++) {

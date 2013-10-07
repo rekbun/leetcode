@@ -1,4 +1,4 @@
-public class Solution {
+public class RemoveDuplicates {
     public  int removeDuplicates(int [] src) {
 		if(src==null || src.length==0) {
 			return 0;

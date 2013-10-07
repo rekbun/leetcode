@@ -1,4 +1,6 @@
-public class Solution {
+import java.util.Stack;
+
+public class LongestValidParenthes {
     private class StackObject {
 		char val;
 		int bef;

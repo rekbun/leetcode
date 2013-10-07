@@ -1,4 +1,6 @@
-public class Solution {
+import java.util.Arrays;
+
+public class NextPermutation {
     private int findRightLow(int[] src) {
 		int low=-1;
 		for(int i=1;i<src.length;i++) {

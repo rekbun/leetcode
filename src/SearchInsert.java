@@ -1,4 +1,4 @@
-public class Solution {
+public class SearchInsert {
     public int searchInsert(int[] src,int k) {
 		if(src==null || src.length==0) {
 			return -1;

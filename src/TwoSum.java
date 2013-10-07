@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class TwoSum {
     public int[] twoSum(int[] numbers ,int k)
     {
         Dictionary<Integer,Integer> dictionary=new Hashtable<Integer, Integer>();

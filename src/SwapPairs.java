@@ -9,7 +9,7 @@
  *     }
  * }
  */
-public class Solution {
+public class SwapPairs {
     public ListNode swapPairs(ListNode head) {
         if(head==null || head.next==null) {
             return head;
