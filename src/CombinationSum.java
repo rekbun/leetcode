@@ -1,4 +1,3 @@
-import com.sun.tools.classfile.CompilationID_attribute;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -34,9 +33,4 @@ public class CombinationSum {
 		return sol;
 	}
 
-	public static  void main(String[] args) {
-		CombinationSum sol = new CombinationSum();
-		int[] array= {1,2,3,4};
-		sol.combinationSum(array,3);
-	}
 }
