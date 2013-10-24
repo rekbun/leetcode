@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Anagrams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IsMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Jump2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Permutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Permutation2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RotateImage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SolveQueens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringMultiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TotalNQueens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Trap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CombinationSum.java" afterPath="$PROJECT_DIR$/src/CombinationSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CanJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxSubArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpriralOrder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TotalNQueens.java" afterPath="$PROJECT_DIR$/src/TotalNQueens.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382511073572" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382605062193" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
     <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
     <file path="/GenerateParentheses.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381173636236" ignored="false" />
     <file path="/MergeThreeLists.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381174752219" ignored="false" />
     <file path="/CountAndSay.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381297688145" ignored="false" />
-    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382588715239" ignored="false" />
+    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594592210" ignored="false" />
     <file path="/CombinationSum.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382266123213" ignored="false" />
     <file path="/CombinationSum2.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382269755332" ignored="false" />
     <file path="/FirstMissingPositive.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382292112871" ignored="false" />
@@ -41,6 +32,9 @@
     <file path="/Pow.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382542467142" ignored="false" />
     <file path="/SolveQueens.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382589674138" ignored="false" />
     <file path="/TotalNQueens.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382590213780" ignored="false" />
+    <file path="/MaxSubArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382591021902" ignored="false" />
+    <file path="/SpriralOrder.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594001143" ignored="false" />
+    <file path="/CanJump.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594664782" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +83,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/CountAndSay.java" line="28" class="CountAndSay" package="">
         <option name="ENABLED" value="true" />
@@ -286,8 +281,77 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SpriralOrder.java" line="44" class="SpriralOrder" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SpriralOrder.java" line="20" class="SpriralOrder" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="20" class="CanJump" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="18" class="CanJump" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="17" class="CanJump" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -297,53 +361,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IsMatch.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IsMatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="5" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#checkForNull#0;class#IsMatch#0" expanded="true" />
-                <element signature="method#checkForCompletion#0;class#IsMatch#0" expanded="true" />
-                <element signature="method#isMatchUtil#0;class#IsMatch#0" expanded="true" />
-                <element signature="method#isMatch#0;class#IsMatch#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Permutation.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="27" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#402#411#0" expanded="true" />
-                <element signature="method#permute#0;class#Permutation#0" expanded="true" />
-                <element signature="e#701#721#0" expanded="true" />
-                <element signature="e#764#773#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NextPermutation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NextPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="24" selection-start="715" selection-end="715" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#findRightLow#0;class#NextPermutation#0" expanded="true" />
-                <element signature="method#findLeftLow#0;class#NextPermutation#0" expanded="true" />
-                <element signature="method#swap#0;class#NextPermutation#0" expanded="true" />
-                <element signature="method#reverse#0;class#NextPermutation#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -353,17 +374,7 @@
         <entry file="file://$PROJECT_DIR$/src/Permutation2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="69" column="45" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#allSorted#0;class#Permutation2#0" expanded="true" />
-                <element signature="method#permuteUnique#0;class#Permutation2#0" expanded="true" />
-                <element signature="e#535#555#0" expanded="true" />
-                <element signature="e#636#645#0" expanded="true" />
-                <element signature="method#findRightLow#0;class#Permutation2#0" expanded="true" />
-                <element signature="method#swap#0;class#Permutation2#0" expanded="true" />
-                <element signature="method#reverse#0;class#Permutation2#0" expanded="true" />
-                <element signature="method#nextPermutation#0;class#Permutation2#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -372,13 +383,7 @@
         <entry file="file://$PROJECT_DIR$/src/RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="33" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#swapEl#0;class#RotateImage#0" expanded="true" />
-                <element signature="method#transpose#0;class#RotateImage#0" expanded="true" />
-                <element signature="method#swapCol#0;class#RotateImage#0" expanded="true" />
-                <element signature="method#swap#0;class#RotateImage#0" expanded="true" />
-                <element signature="method#rotate#0;class#RotateImage#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -387,11 +392,7 @@
         <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="37" column="0" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#anagrams#0;class#Anagrams#0" expanded="true" />
-                <element signature="e#387#414#0" expanded="true" />
-                <element signature="e#714#722#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -409,24 +410,44 @@
         <entry file="file://$PROJECT_DIR$/src/SolveQueens.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="49" column="44" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#canPlace#0;class#SolveQueens#0" expanded="true" />
-                <element signature="method#solve#0;class#SolveQueens#0" expanded="true" />
-                <element signature="e#1071#1081#0" expanded="true" />
-                <element signature="e#1124#1133#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TotalNQueens.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TotalNQueens.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TotalNQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="46" selection-start="808" selection-end="808" vertical-scroll-proportion="0.4637224">
+            <state line="42" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSubArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="42" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpriralOrder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpriralOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanJump.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CanJump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="28" selection-start="380" selection-end="380" vertical-scroll-proportion="0.33693695">
               <folding>
-                <element signature="method#isValid#0;class#TotalNQueens#0" expanded="true" />
-                <element signature="method#totalNQueensUtis#0;class#TotalNQueens#0" expanded="true" />
-                <element signature="method#main#0;class#TotalNQueens#0" expanded="true" />
+                <element signature="method#main#0;class#CanJump#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -450,9 +471,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/MergeThreeLists.java" />
-        <option value="$PROJECT_DIR$/src/CountAndSay.java" />
-        <option value="$PROJECT_DIR$/src/CombinationSum2.java" />
         <option value="$PROJECT_DIR$/src/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/Trap.java" />
         <option value="$PROJECT_DIR$/src/CombinationSum.java" />
@@ -465,14 +483,17 @@
         <option value="$PROJECT_DIR$/src/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/Pow.java" />
         <option value="$PROJECT_DIR$/src/SolveQueens.java" />
+        <option value="$PROJECT_DIR$/src/MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/TotalNQueens.java" />
+        <option value="$PROJECT_DIR$/src/SpriralOrder.java" />
+        <option value="$PROJECT_DIR$/src/CanJump.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -503,6 +524,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -537,7 +559,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -551,6 +572,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -560,10 +582,10 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TotalNQueens">
-    <configuration default="false" name="TotalNQueens" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.CanJump">
+    <configuration default="false" name="CanJump" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TotalNQueens" />
+      <option name="MAIN_CLASS_NAME" value="CanJump" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -598,6 +620,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -624,19 +659,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -700,11 +722,11 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Permutation2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TotalNQueens" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CanJump" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.TotalNQueens" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CanJump" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -722,31 +744,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="732" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="724" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39869282" sideWeight="0.9076175" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.9076175" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.08670989" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.23529412" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.6468647" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.35457516" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.34158415" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -811,25 +833,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="0" selection-start="7977" selection-end="7977" vertical-scroll-proportion="0.70520234" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Class.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="302" column="0" selection-start="13980" selection-end="13980" vertical-scroll-proportion="0.70520234" />
@@ -880,51 +883,27 @@
     <entry file="file://$PROJECT_DIR$/src/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="27" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#402#411#0" expanded="true" />
-            <element signature="method#permute#0;class#Permutation#0" expanded="true" />
-            <element signature="e#701#721#0" expanded="true" />
-            <element signature="e#764#773#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Permutation2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="45" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#allSorted#0;class#Permutation2#0" expanded="true" />
-            <element signature="method#permuteUnique#0;class#Permutation2#0" expanded="true" />
-            <element signature="e#535#555#0" expanded="true" />
-            <element signature="e#636#645#0" expanded="true" />
-            <element signature="method#findRightLow#0;class#Permutation2#0" expanded="true" />
-            <element signature="method#swap#0;class#Permutation2#0" expanded="true" />
-            <element signature="method#reverse#0;class#Permutation2#0" expanded="true" />
-            <element signature="method#nextPermutation#0;class#Permutation2#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="33" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#swapEl#0;class#RotateImage#0" expanded="true" />
-            <element signature="method#transpose#0;class#RotateImage#0" expanded="true" />
-            <element signature="method#swapCol#0;class#RotateImage#0" expanded="true" />
-            <element signature="method#swap#0;class#RotateImage#0" expanded="true" />
-            <element signature="method#rotate#0;class#RotateImage#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/Collection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="156" selection-end="156" vertical-scroll-proportion="0.2681388">
-          <folding />
-        </state>
+        <state line="6" column="17" selection-start="156" selection-end="156" vertical-scroll-proportion="0.2681388" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pow.java">
@@ -937,33 +916,43 @@
     <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#anagrams#0;class#Anagrams#0" expanded="true" />
-            <element signature="e#387#414#0" expanded="true" />
-            <element signature="e#714#722#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SolveQueens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="44" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#canPlace#0;class#SolveQueens#0" expanded="true" />
-            <element signature="method#solve#0;class#SolveQueens#0" expanded="true" />
-            <element signature="e#1071#1081#0" expanded="true" />
-            <element signature="e#1124#1133#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TotalNQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="46" selection-start="808" selection-end="808" vertical-scroll-proportion="0.4637224">
+        <state line="42" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpriralOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CanJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="380" selection-end="380" vertical-scroll-proportion="0.33693695">
           <folding>
-            <element signature="method#isValid#0;class#TotalNQueens#0" expanded="true" />
-            <element signature="method#totalNQueensUtis#0;class#TotalNQueens#0" expanded="true" />
-            <element signature="method#main#0;class#TotalNQueens#0" expanded="true" />
+            <element signature="method#main#0;class#CanJump#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -40,9 +40,4 @@ public class TotalNQueens {
 		int[] ret=new int[n];
 		return totalNQueensUtis(0, n,ret);
 	}
-
-	public static void main(String[] args) {
-		TotalNQueens sol= new TotalNQueens();
-		sol.totalNQueens(1);
-	}
 }
