@@ -2,22 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CanJump.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxSubArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpriralOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TotalNQueens.java" afterPath="$PROJECT_DIR$/src/TotalNQueens.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GenerateMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GetPermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InsertInterval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LengthOfLastWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeIntervals.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CanJump.java" afterPath="$PROJECT_DIR$/src/CanJump.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382605062193" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382704463230" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
     <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
     <file path="/GenerateParentheses.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381173636236" ignored="false" />
     <file path="/MergeThreeLists.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381174752219" ignored="false" />
     <file path="/CountAndSay.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381297688145" ignored="false" />
-    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594592210" ignored="false" />
+    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382722329317" ignored="false" />
     <file path="/CombinationSum.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382266123213" ignored="false" />
     <file path="/CombinationSum2.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382269755332" ignored="false" />
     <file path="/FirstMissingPositive.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382292112871" ignored="false" />
@@ -35,6 +38,11 @@
     <file path="/MaxSubArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382591021902" ignored="false" />
     <file path="/SpriralOrder.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594001143" ignored="false" />
     <file path="/CanJump.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382594664782" ignored="false" />
+    <file path="/MergeIntervals.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382681101695" ignored="false" />
+    <file path="/InsertInterval.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382705524729" ignored="false" />
+    <file path="/LengthOfLastWord.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382706615074" ignored="false" />
+    <file path="/GenerateMatrix.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382722308597" ignored="false" />
+    <file path="/GetPermutation.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382770393567" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,40 +57,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/CountAndSay.java" line="28" class="CountAndSay" package="">
@@ -309,7 +283,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="20" class="CanJump" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/MergeIntervals.java" line="0" class="MergeIntervals.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -323,7 +297,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="18" class="CanJump" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="0" class="InsertInterval.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -337,7 +311,35 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/CanJump.java" line="17" class="CanJump" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="40" class="InsertInterval" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="19" class="InsertInterval" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/GenerateMatrix.java" line="44" class="GenerateMatrix" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -352,6 +354,40 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -361,51 +397,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Permutation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Permutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutation2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Permutation2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="45" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RotateImage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RotateImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="33" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Anagrams.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pow.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SolveQueens.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SolveQueens.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -442,13 +433,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CanJump.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CanJump.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CanJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="380" selection-end="380" vertical-scroll-proportion="0.33693695">
+            <state line="24" column="41" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeIntervals.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeIntervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertInterval.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InsertInterval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="method#main#0;class#CanJump#0" expanded="true" />
+                <element signature="method#insert#0;class#InsertInterval#0" expanded="true" />
+                <element signature="e#340#350#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LengthOfLastWord.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LengthOfLastWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="17" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateMatrix.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenerateMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="8" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#main#0;class#GenerateMatrix#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPermutation.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GetPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="12" selection-start="300" selection-end="300" vertical-scroll-proportion="0.4722222">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -468,15 +507,16 @@
       <MyDateState />
     </option>
   </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="leetcode" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/FirstMissingPositive.java" />
-        <option value="$PROJECT_DIR$/src/Trap.java" />
-        <option value="$PROJECT_DIR$/src/CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/StringMultiply.java" />
-        <option value="$PROJECT_DIR$/src/IsMatch.java" />
-        <option value="$PROJECT_DIR$/src/Jump2.java" />
         <option value="$PROJECT_DIR$/src/Permutation.java" />
         <option value="$PROJECT_DIR$/src/Permutation2.java" />
         <option value="$PROJECT_DIR$/src/RotateImage.java" />
@@ -487,13 +527,19 @@
         <option value="$PROJECT_DIR$/src/TotalNQueens.java" />
         <option value="$PROJECT_DIR$/src/SpriralOrder.java" />
         <option value="$PROJECT_DIR$/src/CanJump.java" />
+        <option value="$PROJECT_DIR$/src/Interval.java" />
+        <option value="$PROJECT_DIR$/src/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/InsertInterval.java" />
+        <option value="$PROJECT_DIR$/src/LengthOfLastWord.java" />
+        <option value="$PROJECT_DIR$/src/GenerateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/GetPermutation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -524,7 +570,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -559,12 +604,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -575,6 +623,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
@@ -582,10 +632,10 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CanJump">
-    <configuration default="false" name="CanJump" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.GenerateMatrix">
+    <configuration default="false" name="GenerateMatrix" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CanJump" />
+      <option name="MAIN_CLASS_NAME" value="GenerateMatrix" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -722,11 +772,11 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Permutation2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CanJump" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GenerateMatrix" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.CanJump" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenerateMatrix" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -735,6 +785,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="" />
@@ -744,31 +812,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="724" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="730" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18395463" sideWeight="0.6147541" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.9076175" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3852459" sideWeight="0.97545356" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.08670989" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.6468647" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14343598" sideWeight="0.65210086" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.34158415" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14343598" sideWeight="0.6147541" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32622603" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -833,60 +901,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Class.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="302" column="0" selection-start="13980" selection-end="13980" vertical-scroll-proportion="0.70520234" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jump2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="10" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#jumpUtil#0;class#Jump2#0" expanded="true" />
-            <element signature="method#jumpOrderN2#0;class#Jump2#0" expanded="true" />
-            <element signature="method#jump#0;class#Jump2#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="5" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#checkForNull#0;class#IsMatch#0" expanded="true" />
-            <element signature="method#checkForCompletion#0;class#IsMatch#0" expanded="true" />
-            <element signature="method#isMatchUtil#0;class#IsMatch#0" expanded="true" />
-            <element signature="method#isMatch#0;class#IsMatch#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="24" selection-start="715" selection-end="715" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#findRightLow#0;class#NextPermutation#0" expanded="true" />
-            <element signature="method#findLeftLow#0;class#NextPermutation#0" expanded="true" />
-            <element signature="method#swap#0;class#NextPermutation#0" expanded="true" />
-            <element signature="method#reverse#0;class#NextPermutation#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="27" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Permutation2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="45" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
@@ -950,10 +964,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CanJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="380" selection-end="380" vertical-scroll-proportion="0.33693695">
+        <state line="24" column="41" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="204" selection-end="204" vertical-scroll-proportion="0.22222222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#main#0;class#CanJump#0" expanded="true" />
+            <element signature="method#insert#0;class#InsertInterval#0" expanded="true" />
+            <element signature="e#340#350#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenerateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#main#0;class#GenerateMatrix#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="300" selection-end="300" vertical-scroll-proportion="0.4722222">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,6 +1073,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

@@ -20,9 +20,5 @@ public class CanJump {
 		}
 		return false;
 	}
-	public static void main(String[] args) {
-		CanJump sol= new CanJump();
 
-		sol.canJump(new int[]{0});
-	}
 }
