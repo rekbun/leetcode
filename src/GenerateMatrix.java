@@ -44,8 +44,4 @@ public class GenerateMatrix {
 		}
 		return sm;
 	}
-	public static void main(String[] args) {
-		GenerateMatrix sol= new GenerateMatrix();
-		sol.generateMatrix(5);
-	}
 }

@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * Created with IntelliJ IDEA.
  * User: rakeshkumar
@@ -7,13 +9,20 @@
  */
 public class GetPermutation {
 	public String getPermutation(int n,int k) {
-		int x=1;
-		int i=1;
-		while(x<k) {
-			x*=++i;
+		int f=1;
+		ArrayList<Integer> num= new ArrayList<Integer>();
+		for(int i=1;i<=n;i++) {
+			num.add(i);
+			f=f*i;
 		}
-		if(x<n) {
-
+		String ret=new String();
+		for(int i=n;i>=1;i--) {
+			f=f/i;
+			int q=(k-1)/f;
+			k=k-f*q;
+			ret+=('0'+num.get(q));
+			num.remove(q);
 		}
+		return ret;
 	}
 }
