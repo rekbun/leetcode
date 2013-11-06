@@ -57,8 +57,4 @@ public class ValidNumber {
 		return state == 1 || state == 4 || state == 7 || state == 8;
 
 	}
-	public static void main(String[] args) {
-		ValidNumber sol= new ValidNumber();
-		sol.isNumber("3");
-	}
 }
