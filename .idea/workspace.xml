@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Combinations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EditDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SetZeroes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SimplifyPaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SortColors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sqrt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ValidNumber.java" afterPath="$PROJECT_DIR$/src/ValidNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Subsets.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383706852405" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383841511733" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
     <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
@@ -61,6 +53,7 @@
     <file path="/SortColors.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383200639555" ignored="false" />
     <file path="/MinimumWindowSubstring.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383708862814" ignored="false" />
     <file path="/Combinations.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383725637615" ignored="false" />
+    <file path="/Subsets.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383843396898" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -553,7 +546,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -588,6 +580,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -601,15 +594,6 @@
         <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchMatrix.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SearchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -673,26 +657,36 @@
         <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="44" column="0" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Combinations.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Combinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="29" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#376#396#0" expanded="true" />
-                <element signature="e#627#647#0" expanded="true" />
-                <element signature="method#main#0;class#MinimumWindowSubstring#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#408#417#0" expanded="true" />
+                <element signature="method#combine#0;class#Combinations#0" expanded="true" />
+                <element signature="e#809#829#0" expanded="true" />
+                <element signature="e#874#883#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Combinations.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Combinations.java">
+      <file leaf-file-name="Subsets.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="44" selection-start="737" selection-end="737" vertical-scroll-proportion="0.31790122">
+            <state line="25" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.5160142">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#combineUtil#0;class#Combinations#0" expanded="true" />
-                <element signature="e#408#417#0" expanded="true" />
-                <element signature="method#combine#0;class#Combinations#0" expanded="true" />
-                <element signature="e#809#829#0" expanded="true" />
-                <element signature="e#874#883#0" expanded="true" />
+                <element signature="e#378#398#0" expanded="true" />
+                <element signature="e#565#585#0" expanded="true" />
+                <element signature="e#676#685#0" expanded="true" />
+                <element signature="method#subsets#0;class#Subsets#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -723,7 +717,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/UniquePathsWithObstacles.java" />
         <option value="$PROJECT_DIR$/src/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/AddBinary.java" />
@@ -739,13 +732,14 @@
         <option value="$PROJECT_DIR$/src/SortColors.java" />
         <option value="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/Subsets.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="728" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -775,6 +769,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -810,7 +805,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -827,12 +821,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -877,19 +871,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -916,6 +897,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1019,7 +1013,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="728" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1033,7 +1027,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14343598" sideWeight="0.65210086" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1044,6 +1037,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1108,13 +1102,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="18" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UniquePathsWithObstacles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="26" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
@@ -1209,24 +1196,32 @@
     <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="0" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#376#396#0" expanded="true" />
-            <element signature="e#627#647#0" expanded="true" />
-            <element signature="method#main#0;class#MinimumWindowSubstring#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="44" selection-start="737" selection-end="737" vertical-scroll-proportion="0.31790122">
+        <state line="20" column="29" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#combineUtil#0;class#Combinations#0" expanded="true" />
             <element signature="e#408#417#0" expanded="true" />
             <element signature="method#combine#0;class#Combinations#0" expanded="true" />
             <element signature="e#809#829#0" expanded="true" />
             <element signature="e#874#883#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.5160142">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#398#0" expanded="true" />
+            <element signature="e#565#585#0" expanded="true" />
+            <element signature="e#676#685#0" expanded="true" />
+            <element signature="method#subsets#0;class#Subsets#0" expanded="true" />
           </folding>
         </state>
       </provider>
