@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,7 +57,7 @@
     <file path="/RemoveDuplicatesII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385052645799" ignored="false" />
     <file path="/SearchInaRotatedSortedArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061017883" ignored="false" />
     <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385058258960" ignored="false" />
-    <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061187460" ignored="false" />
+    <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385063000182" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -692,7 +692,7 @@
       <file leaf-file-name="RemoveDuplicatesFromList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="167" selection-end="167" vertical-scroll-proportion="0.15232974">
+            <state line="20" column="0" selection-start="116" selection-end="446" vertical-scroll-proportion="0.609319">
               <folding />
             </state>
           </provider>
@@ -1215,7 +1215,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="167" selection-end="167" vertical-scroll-proportion="0.15232974">
+        <state line="20" column="0" selection-start="116" selection-end="446" vertical-scroll-proportion="0.609319">
           <folding />
         </state>
       </provider>
