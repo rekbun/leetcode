@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -55,6 +55,7 @@
     <file path="/Combinations.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383725637615" ignored="false" />
     <file path="/Subsets.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383843396898" ignored="false" />
     <file path="/WordSearch.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1384968992750" ignored="false" />
+    <file path="/RemoveDuplicatesII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385052645799" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -600,15 +601,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sqrt.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sqrt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SimplifyPaths.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SimplifyPaths.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -678,15 +670,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordSearch.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WordSearch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.93873876">
+            <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#1089#0" expanded="true" />
                 <element signature="method#exist#0;class#WordSearch#0" expanded="true" />
                 <element signature="method#existUtil#0;class#WordSearch#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesII.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="31" selection-start="165" selection-end="165" vertical-scroll-proportion="0.21441442">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -716,7 +717,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/AddBinary.java" />
         <option value="$PROJECT_DIR$/src/GenerateMatrix.java" />
         <option value="$PROJECT_DIR$/src/PlusOneToDigits.java" />
@@ -732,6 +732,7 @@
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesII.java" />
       </list>
     </option>
   </component>
@@ -1012,7 +1013,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="724" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1101,13 +1102,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MinPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="33" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AddBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="16" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
@@ -1214,12 +1208,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.93873876">
+        <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#1089#0" expanded="true" />
             <element signature="method#exist#0;class#WordSearch#0" expanded="true" />
             <element signature="method#existUtil#0;class#WordSearch#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="165" selection-end="165" vertical-scroll-proportion="0.21441442">
+          <folding />
         </state>
       </provider>
     </entry>
