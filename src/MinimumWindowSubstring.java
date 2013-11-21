@@ -76,8 +76,4 @@ public class MinimumWindowSubstring {
 		return ans;
 	}
 
-	public static void main(String[] args) {
-		MinimumWindowSubstring sol= new MinimumWindowSubstring();
-		sol.minWindow("acbbaca", "aba");
-	}
 }

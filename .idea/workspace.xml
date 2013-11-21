@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1384966200643" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385060960878" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
     <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
     <file path="/GenerateParentheses.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381173636236" ignored="false" />
     <file path="/MergeThreeLists.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381174752219" ignored="false" />
     <file path="/CountAndSay.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381297688145" ignored="false" />
-    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383209527240" ignored="false" />
+    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385055456792" ignored="false" />
     <file path="/CombinationSum.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382266123213" ignored="false" />
     <file path="/CombinationSum2.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382269755332" ignored="false" />
     <file path="/FirstMissingPositive.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382292112871" ignored="false" />
@@ -55,6 +58,10 @@
     <file path="/Combinations.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383725637615" ignored="false" />
     <file path="/Subsets.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1383843396898" ignored="false" />
     <file path="/WordSearch.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1384968992750" ignored="false" />
+    <file path="/RemoveDuplicatesII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385052645799" ignored="false" />
+    <file path="/SearchInaRotatedSortedArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061017883" ignored="false" />
+    <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385058258960" ignored="false" />
+    <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061187460" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -546,6 +553,20 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" line="0" class="SearchInaRotatedSortedArray.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
@@ -591,42 +612,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ValidNumber.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sqrt.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sqrt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimplifyPaths.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplifyPaths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="0" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditDistance.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EditDistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="6" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SetZeroes.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SetZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -648,7 +633,16 @@
       <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0">
+            <state line="78" column="0" selection-start="1826" selection-end="1826" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="2034" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -667,26 +661,43 @@
         <entry file="file://$PROJECT_DIR$/src/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="25" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#378#398#0" expanded="true" />
-                <element signature="e#565#585#0" expanded="true" />
-                <element signature="e#676#685#0" expanded="true" />
-                <element signature="method#subsets#0;class#Subsets#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordSearch.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WordSearch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.93873876">
-              <folding>
-                <element signature="e#0#1089#0" expanded="true" />
-                <element signature="method#exist#0;class#WordSearch#0" expanded="true" />
-                <element signature="method#existUtil#0;class#WordSearch#0" expanded="true" />
-              </folding>
+            <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="31" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInaRotatedSortedArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="34" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesFromList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="8" selection-start="167" selection-end="167" vertical-scroll-proportion="0.15232974">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -716,10 +727,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/MinPathSum.java" />
-        <option value="$PROJECT_DIR$/src/AddBinary.java" />
-        <option value="$PROJECT_DIR$/src/GenerateMatrix.java" />
-        <option value="$PROJECT_DIR$/src/PlusOneToDigits.java" />
         <option value="$PROJECT_DIR$/src/SearchMatrix.java" />
         <option value="$PROJECT_DIR$/src/ValidNumber.java" />
         <option value="$PROJECT_DIR$/src/ClimbingStairs.java" />
@@ -728,17 +735,21 @@
         <option value="$PROJECT_DIR$/src/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/SetZeroes.java" />
         <option value="$PROJECT_DIR$/src/SortColors.java" />
-        <option value="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesII.java" />
+        <option value="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -768,8 +779,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -804,6 +813,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -832,10 +843,10 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumWindowSubstring">
-    <configuration default="false" name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MinimumWindowSubstring" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -972,11 +983,11 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Permutation2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MinimumWindowSubstring" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinimumWindowSubstring" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1012,7 +1023,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1020,7 +1031,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38322368" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38245034" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3843594" sideWeight="0.10372771" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1031,12 +1042,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16693678" sideWeight="0.9606383" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32401314" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16693678" sideWeight="0.61754966" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3228477" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32615894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1101,34 +1112,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MinPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="33" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="16" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenerateMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlusOneToDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="5" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="8" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
@@ -1185,13 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="29" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
@@ -1202,24 +1178,49 @@
     <entry file="file://$PROJECT_DIR$/src/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#378#398#0" expanded="true" />
-            <element signature="e#565#585#0" expanded="true" />
-            <element signature="e#676#685#0" expanded="true" />
-            <element signature="method#subsets#0;class#Subsets#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.93873876">
-          <folding>
-            <element signature="e#0#1089#0" expanded="true" />
-            <element signature="method#exist#0;class#WordSearch#0" expanded="true" />
-            <element signature="method#existUtil#0;class#WordSearch#0" expanded="true" />
-          </folding>
+        <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="1826" selection-end="1826" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2034" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="34" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="167" selection-end="167" vertical-scroll-proportion="0.15232974">
+          <folding />
         </state>
       </provider>
     </entry>
