@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LargestRectangleArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,7 +15,7 @@
     <file path="/GenerateParentheses.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381173636236" ignored="false" />
     <file path="/MergeThreeLists.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381174752219" ignored="false" />
     <file path="/CountAndSay.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381297688145" ignored="false" />
-    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385055456792" ignored="false" />
+    <file path="/fragment.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385219662119" ignored="false" />
     <file path="/CombinationSum.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382266123213" ignored="false" />
     <file path="/CombinationSum2.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382269755332" ignored="false" />
     <file path="/FirstMissingPositive.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1382292112871" ignored="false" />
@@ -58,6 +60,8 @@
     <file path="/SearchInaRotatedSortedArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061017883" ignored="false" />
     <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385058258960" ignored="false" />
     <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385063000182" ignored="false" />
+    <file path="/RemoveDuplicatesFromListII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385204656604" ignored="false" />
+    <file path="/LargestRectangleArea.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385222764262" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -608,24 +612,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SetZeroes.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SetZeroes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="27" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortColors.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortColors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="4" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -689,11 +675,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicatesFromList.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicatesFromList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="116" selection-end="446" vertical-scroll-proportion="0.609319">
+            <state line="10" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesFromListII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="5" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#deleteDuplicates#0;class#RemoveDuplicatesFromListII#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestRectangleArea.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LargestRectangleArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="0" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.9444444">
+              <folding>
+                <element signature="method#StackElement#0;class#StackElement#0" expanded="true" />
+                <element signature="method#largestRectangleArea#0;class#LargestRectangleArea#0" expanded="true" />
+                <element signature="e#432#446#0" expanded="true" />
+                <element signature="method#calculateMax#0;class#LargestRectangleArea#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -723,8 +734,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/SearchMatrix.java" />
-        <option value="$PROJECT_DIR$/src/ValidNumber.java" />
         <option value="$PROJECT_DIR$/src/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/Sqrt.java" />
         <option value="$PROJECT_DIR$/src/SimplifyPaths.java" />
@@ -739,6 +748,8 @@
         <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java" />
+        <option value="$PROJECT_DIR$/src/LargestRectangleArea.java" />
       </list>
     </option>
   </component>
@@ -1108,20 +1119,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SearchMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
@@ -1215,8 +1212,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="116" selection-end="446" vertical-scroll-proportion="0.609319">
+        <state line="10" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="5" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#deleteDuplicates#0;class#RemoveDuplicatesFromListII#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LargestRectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.9444444">
+          <folding>
+            <element signature="method#StackElement#0;class#StackElement#0" expanded="true" />
+            <element signature="method#largestRectangleArea#0;class#LargestRectangleArea#0" expanded="true" />
+            <element signature="e#432#446#0" expanded="true" />
+            <element signature="method#calculateMax#0;class#LargestRectangleArea#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
