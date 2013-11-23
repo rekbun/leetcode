@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximalRectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LargestRectangleArea.java" afterPath="$PROJECT_DIR$/src/LargestRectangleArea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Partition.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -64,6 +62,7 @@
     <file path="/RemoveDuplicatesFromListII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385204656604" ignored="false" />
     <file path="/LargestRectangleArea.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385222764262" ignored="false" />
     <file path="/MaximalRectangle.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385238330812" ignored="false" />
+    <file path="/Partition.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385239451961" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -660,15 +659,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subsets.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Subsets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WordSearch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -728,15 +718,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximalRectangle.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MaximalRectangle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="12" selection-start="711" selection-end="711" vertical-scroll-proportion="0.7323077">
+            <state line="40" column="12" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="method#StackElement#0;class#StackElement#0;class#MaximalRectangle#0" expanded="true" />
                 <element signature="method#largestRectangleArea#0;class#MaximalRectangle#0" expanded="true" />
                 <element signature="e#890#904#0" expanded="true" />
                 <element signature="method#calculateMax#0;class#MaximalRectangle#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Partition.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Partition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.8953846">
+              <folding>
+                <element signature="method#partition#0;class#Partition#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -767,7 +768,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Sqrt.java" />
         <option value="$PROJECT_DIR$/src/SimplifyPaths.java" />
         <option value="$PROJECT_DIR$/src/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/SetZeroes.java" />
@@ -783,6 +783,7 @@
         <option value="$PROJECT_DIR$/src/LargestRectangleArea.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/Partition.java" />
       </list>
     </option>
   </component>
@@ -1170,13 +1171,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimplifyPaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="0" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0">
@@ -1282,12 +1276,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="12" selection-start="711" selection-end="711" vertical-scroll-proportion="0.7323077">
+        <state line="40" column="12" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="method#StackElement#0;class#StackElement#0;class#MaximalRectangle#0" expanded="true" />
             <element signature="method#largestRectangleArea#0;class#MaximalRectangle#0" expanded="true" />
             <element signature="e#890#904#0" expanded="true" />
             <element signature="method#calculateMax#0;class#MaximalRectangle#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.8953846">
+          <folding>
+            <element signature="method#partition#0;class#Partition#0" expanded="true" />
           </folding>
         </state>
       </provider>
