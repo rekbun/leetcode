@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Partition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GrayCodeSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -57,12 +58,15 @@
     <file path="/WordSearch.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1384968992750" ignored="false" />
     <file path="/RemoveDuplicatesII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385052645799" ignored="false" />
     <file path="/SearchInaRotatedSortedArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061017883" ignored="false" />
-    <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385237981830" ignored="false" />
+    <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385289743762" ignored="false" />
     <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385063000182" ignored="false" />
     <file path="/RemoveDuplicatesFromListII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385204656604" ignored="false" />
-    <file path="/LargestRectangleArea.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385222764262" ignored="false" />
+    <file path="/LargestRectangleArea.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385241328048" ignored="false" />
     <file path="/MaximalRectangle.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385238330812" ignored="false" />
     <file path="/Partition.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385239451961" ignored="false" />
+    <file path="/IsScramble.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385286564057" ignored="false" />
+    <file path="/MergeTwoSortedArraysIntoOne.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385288382009" ignored="false" />
+    <file path="/GrayCodeSequence.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385290257586" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -596,6 +600,62 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/IsScramble.java" line="14" class="IsScramble" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/IsScramble.java" line="40" class="IsScramble" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/GrayCodeSequence.java" line="32" class="GrayCodeSequence" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/GrayCodeSequence.java" line="27" class="GrayCodeSequence" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
@@ -641,37 +701,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="0" selection-start="1826" selection-end="1826" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="59" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordSearch.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="5" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicatesII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+            <state line="3" column="24" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -707,12 +740,45 @@
       <file leaf-file-name="LargestRectangleArea.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LargestRectangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="44" column="8" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="method#StackElement#0;class#StackElement#0" expanded="true" />
                 <element signature="method#largestRectangleArea#0;class#LargestRectangleArea#0" expanded="true" />
                 <element signature="e#403#417#0" expanded="true" />
-                <element signature="method#calculateMax#0;class#LargestRectangleArea#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsScramble.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IsScramble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="12" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#isScramble#0;class#IsScramble#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeTwoSortedArraysIntoOne.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedArraysIntoOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="8" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrayCodeSequence.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GrayCodeSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="35" selection-start="195" selection-end="195" vertical-scroll-proportion="-0.6738461">
+              <folding>
+                <element signature="e#209#218#0" expanded="true" />
+                <element signature="method#grayCodeUtil#0;class#GrayCodeSequence#0" expanded="true" />
+                <element signature="e#377#386#0" expanded="true" />
+                <element signature="e#492#501#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -732,10 +798,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Partition.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Partition.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Partition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.8953846">
+            <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="method#partition#0;class#Partition#0" expanded="true" />
               </folding>
@@ -768,9 +834,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/SimplifyPaths.java" />
-        <option value="$PROJECT_DIR$/src/EditDistance.java" />
-        <option value="$PROJECT_DIR$/src/SetZeroes.java" />
         <option value="$PROJECT_DIR$/src/SortColors.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
@@ -780,12 +843,18 @@
         <option value="$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java" />
-        <option value="$PROJECT_DIR$/src/LargestRectangleArea.java" />
-        <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/Partition.java" />
+        <option value="$PROJECT_DIR$/src/LargestRectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/IsScramble.java" />
+        <option value="$PROJECT_DIR$/src/MergeTwoSortedArraysIntoOne.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/GrayCodeSequence.java" />
       </list>
     </option>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
@@ -1171,34 +1240,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SimplifyPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="0" selection-start="1602" selection-end="1602" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="6" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SetZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="29" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
@@ -1255,25 +1296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestRectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#StackElement#0;class#StackElement#0" expanded="true" />
-            <element signature="method#largestRectangleArea#0;class#LargestRectangleArea#0" expanded="true" />
-            <element signature="e#403#417#0" expanded="true" />
-            <element signature="method#calculateMax#0;class#LargestRectangleArea#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="59" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="12" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
@@ -1288,9 +1310,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Partition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.8953846">
+        <state line="39" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="method#partition#0;class#Partition#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LargestRectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="8" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#StackElement#0;class#StackElement#0" expanded="true" />
+            <element signature="method#largestRectangleArea#0;class#LargestRectangleArea#0" expanded="true" />
+            <element signature="e#403#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="53" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.44230768">
+          <folding>
+            <element signature="method#substring#0;class#String#0" expanded="true" />
+            <element signature="method#substring#1;class#String#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsScramble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="12" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#isScramble#0;class#IsScramble#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedArraysIntoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="24" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GrayCodeSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="35" selection-start="195" selection-end="195" vertical-scroll-proportion="-0.6738461">
+          <folding>
+            <element signature="e#209#218#0" expanded="true" />
+            <element signature="method#grayCodeUtil#0;class#GrayCodeSequence#0" expanded="true" />
+            <element signature="e#377#386#0" expanded="true" />
+            <element signature="e#492#501#0" expanded="true" />
           </folding>
         </state>
       </provider>
