@@ -2,39 +2,39 @@
 
  */
 
-class TreeNodeWithRightPointer {
+class TreeLinkNode {
 	int val;
-	TreeNodeWithRightPointer left;
-	TreeNodeWithRightPointer right;
-	TreeNodeWithRightPointer rightPointer;
+	TreeLinkNode left, right, next;
+	TreeLinkNode(int x) { val = x; }
 }
+
 public class ConnectRightPointer {
-	public void connectRightPointer(TreeNodeWithRightPointer root) {
+	public void connect(TreeLinkNode root) {
 		if(root==null) {
 			return;
 		}
-		TreeNodeWithRightPointer cur=root;
+		TreeLinkNode cur=root;
 		while (cur!=null) {
-			TreeNodeWithRightPointer next_level=cur;
+			TreeLinkNode next_level=cur;
 			while (cur!=null) {
 				if(cur.left!=null) {
 					if(cur.right!=null) {
-						cur.left.rightPointer=cur.right;
+						cur.left.next=cur.right;
 					}else {
-						cur.left.rightPointer=cur.rightPointer;
+						cur.left.next=cur.next;
 					}
 				}
 				if(cur.right!=null) {
-					cur.right.rightPointer=cur.rightPointer;
+					cur.right.next=cur.next;
 				}
-				cur=cur.rightPointer;
+				cur=cur.next;
 			}
 			cur=findNext(next_level);
 		}
 
 	}
 
-	private TreeNodeWithRightPointer findNext(TreeNodeWithRightPointer next_level) {
+	private TreeLinkNode findNext(TreeLinkNode next_level) {
 		while (next_level!=null) {
 			if(next_level.left!=null) {
 				return next_level.left;
@@ -42,7 +42,7 @@ public class ConnectRightPointer {
 			if(next_level.right!=null) {
 				return next_level.right;
 			}
-			next_level=next_level.rightPointer;
+			next_level=next_level.next;
 		}
 		return null;
 	}
