@@ -25,7 +25,7 @@ public class ConnectRightPointer {
 					}
 				}
 				if(cur.right!=null) {
-					cur.right.next=cur.next;
+					cur.right.next=findNext(cur.next);
 				}
 				cur=cur.next;
 			}
