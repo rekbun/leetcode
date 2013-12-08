@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LevelOrderTraversalBottom.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385495004384" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386375807915" ignored="false" />
     <file path="/ReverseInK.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150105725" ignored="false" />
     <file path="/BinaryTreeInorderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381150227620" ignored="false" />
     <file path="/BuildTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1381170632632" ignored="false" />
@@ -58,7 +57,7 @@
     <file path="/WordSearch.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1384968992750" ignored="false" />
     <file path="/RemoveDuplicatesII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385052645799" ignored="false" />
     <file path="/SearchInaRotatedSortedArray.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385061017883" ignored="false" />
-    <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385581275959" ignored="false" />
+    <file path="/Solution.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386362669538" ignored="false" />
     <file path="/RemoveDuplicatesFromList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385063000182" ignored="false" />
     <file path="/RemoveDuplicatesFromListII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385204656604" ignored="false" />
     <file path="/LargestRectangleArea.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385241328048" ignored="false" />
@@ -86,6 +85,26 @@
     <file path="/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385583890767" ignored="false" />
     <file path="/LevelOrderBottom.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385585446642" ignored="false" />
     <file path="/LevelOrderTraversalBottom.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385585340201" ignored="false" />
+    <file path="/SortedArrayToBinarySearchTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385586142535" ignored="false" />
+    <file path="/SortedListBinarySearchTree.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385589945790" ignored="false" />
+    <file path="/IsHeightBalanaced.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385660004734" ignored="false" />
+    <file path="/MinimumDepth.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385705519145" ignored="false" />
+    <file path="/HasPathSum.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385706720056" ignored="false" />
+    <file path="/HasPathSum2.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385796002428" ignored="false" />
+    <file path="/FlattenLinkedList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385797993453" ignored="false" />
+    <file path="/DistinctSubsequences.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385813662461" ignored="false" />
+    <file path="/ConnectRightPointer.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385958141866" ignored="false" />
+    <file path="/GeneratePattern.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385963663122" ignored="false" />
+    <file path="/GetRowTriangle.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1385970914830" ignored="false" />
+    <file path="/Triangle.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386006369374" ignored="false" />
+    <file path="/BestTimeToBuyAndSellStocks.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386089434197" ignored="false" />
+    <file path="/BestTimeToBuyAndSellStocksII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386100093308" ignored="false" />
+    <file path="/BestTimeToSellAndBuyStockiii.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386183566812" ignored="false" />
+    <file path="/IsPalindrome.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386267003541" ignored="false" />
+    <file path="/ReoderList.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386279356577" ignored="false" />
+    <file path="/WordLadderII.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386364302014" ignored="false" />
+    <file path="/LargestConsecutiveSequence.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386454686844" ignored="false" />
+    <file path="/FindSumOfPath.java" changelist="e3c9856a-3b77-4195-a631-6fe764d8ad07" time="1386456783510" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +122,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/CountAndSay.java" line="28" class="CountAndSay" package="">
         <option name="ENABLED" value="true" />
@@ -735,6 +753,62 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/DistinctSubsequences.java" line="22" class="DistinctSubsequences" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/DistinctSubsequences.java" line="18" class="DistinctSubsequences" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/Triangle.java" line="7" class="Triangle" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/Triangle.java" line="17" class="Triangle" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
@@ -770,6 +844,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -779,114 +854,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="BestTimeToBuyAndSellStocksII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStocksII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="4" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestTimeToSellAndBuyStockiii.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BestTimeToSellAndBuyStockiii.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeMaximumPathSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreeMaximumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="9" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsPalindrome.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IsPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="4" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReoderList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReoderList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Word_Ledder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Word_Ledder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="12" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadderII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordLadderII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="30" selection-start="2195" selection-end="2195" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#259#284#0" expanded="true" />
+                <element signature="e#334#351#0" expanded="true" />
+                <element signature="e#398#406#0" expanded="true" />
+                <element signature="e#463#482#0" expanded="true" />
+                <element signature="e#667#675#0" expanded="true" />
+                <element signature="e#1947#1955#0" expanded="true" />
+                <element signature="method#back_trace#0;class#WordLadderII#0" expanded="true" />
+                <element signature="e#2409#2428#0" expanded="true" />
+                <element signature="e#2473#2481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestConsecutiveSequence.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LargestConsecutiveSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="61" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#longestConsecutive#0;class#LargestConsecutiveSequence#0" expanded="true" />
+                <element signature="e#223#240#0" expanded="true" />
+                <element signature="method#findMaxLen#0;class#LargestConsecutiveSequence#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindSumOfPath.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindSumOfPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="19" selection-start="275" selection-end="275" vertical-scroll-proportion="0.46961325">
+              <folding>
+                <element signature="method#sumNumbers#0;class#FindSumOfPath#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="50" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SameTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SameTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsSymmetric.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IsSymmetric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="23" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryLevelOrderTraversal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryLevelOrderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="29" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZigzagLevelOrderTraversal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZigzagLevelOrderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="5" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#zigzagLevelOrder#0;class#ZigzagLevelOrderTraversal#0" expanded="true" />
-                <element signature="e#349#369#0" expanded="true" />
-                <element signature="e#446#456#0" expanded="true" />
-                <element signature="e#500#510#0" expanded="true" />
-                <element signature="e#552#561#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxDepth.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructBinaryTreeUsingPreAndInOrderTraversal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#buildTree#0;class#ConstructBinaryTreeUsingPreAndInOrderTraversal#0" expanded="true" />
-                <element signature="e#315#333#0" expanded="true" />
-                <element signature="method#buildTreeUtil#0;class#ConstructBinaryTreeUsingPreAndInOrderTraversal#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LevelOrderTraversalBottom.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LevelOrderTraversalBottom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="36" selection-start="785" selection-end="785" vertical-scroll-proportion="0.42902207">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#323#343#0" expanded="true" />
-                <element signature="e#424#434#0" expanded="true" />
-                <element signature="e#568#577#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BST.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#insert#0;class#BST#0" expanded="true" />
-                <element signature="method#insertUtil#0;class#BST#0" expanded="true" />
-                <element signature="e#658#667#0" expanded="true" />
-                <element signature="method#pathUtil#0;class#BST#0" expanded="true" />
-                <element signature="e#849#858#0" expanded="true" />
-                <element signature="e#947#956#0" expanded="true" />
-                <element signature="method#main#0;class#BST#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+            <state line="10" column="37" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -917,22 +985,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java" />
-        <option value="$PROJECT_DIR$/src/InterleavingString.java" />
-        <option value="$PROJECT_DIR$/src/IsValidBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/RecoverBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/SameTree.java" />
-        <option value="$PROJECT_DIR$/src/IsSymmetric.java" />
-        <option value="$PROJECT_DIR$/src/BinaryLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/Path.java" />
-        <option value="$PROJECT_DIR$/src/Tree.java" />
-        <option value="$PROJECT_DIR$/src/BST.java" />
-        <option value="$PROJECT_DIR$/src/ZigzagLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/MaxDepth.java" />
+        <option value="$PROJECT_DIR$/src/ConnectRightPointer.java" />
+        <option value="$PROJECT_DIR$/src/SetNextInAnyTree.java" />
+        <option value="$PROJECT_DIR$/src/GeneratePattern.java" />
+        <option value="$PROJECT_DIR$/src/GetRowTriangle.java" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStocks.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStocksII.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToSellAndBuyStockiii.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/ReoderList.java" />
+        <option value="$PROJECT_DIR$/src/Word_Ledder.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
-        <option value="$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/LevelOrderBottom.java" />
-        <option value="$PROJECT_DIR$/src/LevelOrderTraversalBottom.java" />
+        <option value="$PROJECT_DIR$/src/WordLadderII.java" />
+        <option value="$PROJECT_DIR$/src/LargestConsecutiveSequence.java" />
+        <option value="$PROJECT_DIR$/src/FindSumOfPath.java" />
       </list>
     </option>
   </component>
@@ -1227,25 +1295,25 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38047138" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37802908" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3843594" sideWeight="0.10372771" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6195286" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14343598" sideWeight="0.65210086" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16693678" sideWeight="0.6195286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16693678" sideWeight="0.6212121" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32154882" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6195286" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32491583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1309,148 +1377,144 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RestoreIpAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/ConnectRightPointer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="5" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0">
+        <state line="27" column="27" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#restoreIpAddresses#0;class#RestoreIpAddress#0" expanded="true" />
-            <element signature="method#restoreIpAddressUtil#0;class#RestoreIpAddress#0" expanded="true" />
-            <element signature="e#401#409#0" expanded="true" />
+            <element signature="e#0#867#0" expanded="true" />
+            <element signature="method#TreeLinkNode#0;class#TreeLinkNode#0" expanded="true" />
+            <element signature="method#findNext#0;class#ConnectRightPointer#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTrees.java">
+    <entry file="file://$PROJECT_DIR$/src/SetNextInAnyTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+        <state line="1" column="79" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#numTrees#0;class#UniqueBinarySearchTrees#0" expanded="true" />
-            <element signature="method#binomial#0;class#UniqueBinarySearchTrees#0" expanded="true" />
+            <element signature="method#connect#0;class#SetNextInAnyTree#0" expanded="true" />
+            <element signature="method#findNext#0;class#SetNextInAnyTree#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java">
+    <entry file="file://$PROJECT_DIR$/src/GeneratePattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="5" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
+        <state line="21" column="22" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#generateTrees#0;class#UniqueBinarySearchTreesII#0" expanded="true" />
-            <element signature="method#generateTreesUtil#0;class#UniqueBinarySearchTreesII#0" expanded="true" />
-            <element signature="e#331#341#0" expanded="true" />
+            <element signature="e#224#244#0" expanded="true" />
+            <element signature="e#322#331#0" expanded="true" />
+            <element signature="e#455#464#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InterleavingString.java">
+    <entry file="file://$PROJECT_DIR$/src/GetRowTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="9" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsValidBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecoverBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="5" selection-start="922" selection-end="922" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsSymmetric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="29" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
+        <state line="16" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#insert#0;class#BST#0" expanded="true" />
-            <element signature="method#insertUtil#0;class#BST#0" expanded="true" />
-            <element signature="e#658#667#0" expanded="true" />
-            <element signature="method#pathUtil#0;class#BST#0" expanded="true" />
-            <element signature="e#849#858#0" expanded="true" />
-            <element signature="e#947#956#0" expanded="true" />
-            <element signature="method#main#0;class#BST#0" expanded="true" />
+            <element signature="e#200#209#0" expanded="true" />
+            <element signature="e#258#267#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZigzagLevelOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="5" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#zigzagLevelOrder#0;class#ZigzagLevelOrderTraversal#0" expanded="true" />
-            <element signature="e#349#369#0" expanded="true" />
-            <element signature="e#446#456#0" expanded="true" />
-            <element signature="e#500#510#0" expanded="true" />
-            <element signature="e#552#561#0" expanded="true" />
-          </folding>
+        <state line="21" column="0" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxDepth.java">
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
+        <state line="13" column="18" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStocksII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToSellAndBuyStockiii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeMaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReoderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Word_Ledder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="12" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="50" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+        <state line="10" column="37" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/WordLadderII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+        <state line="61" column="30" selection-start="2195" selection-end="2195" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#buildTree#0;class#ConstructBinaryTreeUsingPreAndInOrderTraversal#0" expanded="true" />
-            <element signature="e#315#333#0" expanded="true" />
-            <element signature="method#buildTreeUtil#0;class#ConstructBinaryTreeUsingPreAndInOrderTraversal#0" expanded="true" />
+            <element signature="e#259#284#0" expanded="true" />
+            <element signature="e#334#351#0" expanded="true" />
+            <element signature="e#398#406#0" expanded="true" />
+            <element signature="e#463#482#0" expanded="true" />
+            <element signature="e#667#675#0" expanded="true" />
+            <element signature="e#1947#1955#0" expanded="true" />
+            <element signature="method#back_trace#0;class#WordLadderII#0" expanded="true" />
+            <element signature="e#2409#2428#0" expanded="true" />
+            <element signature="e#2473#2481#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LevelOrderTraversalBottom.java">
+    <entry file="file://$PROJECT_DIR$/src/LargestConsecutiveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="36" selection-start="785" selection-end="785" vertical-scroll-proportion="0.42902207">
+        <state line="2" column="61" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#323#343#0" expanded="true" />
-            <element signature="e#424#434#0" expanded="true" />
-            <element signature="e#568#577#0" expanded="true" />
+            <element signature="method#longestConsecutive#0;class#LargestConsecutiveSequence#0" expanded="true" />
+            <element signature="e#223#240#0" expanded="true" />
+            <element signature="method#findMaxLen#0;class#LargestConsecutiveSequence#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindSumOfPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="275" selection-end="275" vertical-scroll-proportion="0.46961325">
+          <folding>
+            <element signature="method#sumNumbers#0;class#FindSumOfPath#0" expanded="true" />
           </folding>
         </state>
       </provider>
