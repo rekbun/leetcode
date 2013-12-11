@@ -4,7 +4,7 @@ http://oj.leetcode.com/problems/3sum/
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ThreeSumClosest {
+public class ThreeSum {
 	public ArrayList<ArrayList<Integer>> threeSum(int[] num) {
 		// Start typing your Java solution below
 		// DO NOT write main() function
@@ -39,4 +39,4 @@ public class ThreeSumClosest {
 		return triplet;
 	}
 }
-}
+
