@@ -2,8 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c9856a-3b77-4195-a631-6fe764d8ad07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geekforgeek/NegativePositiveAlternate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topcoder/SRM457.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddBinary.java" afterPath="$PROJECT_DIR$/src/leetcode/AddBinary.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Anagrams.java" afterPath="$PROJECT_DIR$/src/leetcode/Anagrams.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Atoi.java" afterPath="$PROJECT_DIR$/src/leetcode/Atoi.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BST.java" afterPath="$PROJECT_DIR$/src/leetcode/BST.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStocks.java" afterPath="$PROJECT_DIR$/src/leetcode/BestTimeToBuyAndSellStocks.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStocksII.java" afterPath="$PROJECT_DIR$/src/leetcode/BestTimeToBuyAndSellStocksII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BestTimeToSellAndBuyStockiii.java" afterPath="$PROJECT_DIR$/src/leetcode/BestTimeToSellAndBuyStockiii.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/BinaryLevelOrderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/BinaryTreeInorderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/src/leetcode/BinaryTreeMaximumPathSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/BinaryTreePreorderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BuildTree.java" afterPath="$PROJECT_DIR$/src/leetcode/BuildTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CanJump.java" afterPath="$PROJECT_DIR$/src/leetcode/CanJump.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Candy.java" afterPath="$PROJECT_DIR$/src/leetcode/Candy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ClimbingStairs.java" afterPath="$PROJECT_DIR$/src/leetcode/ClimbingStairs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CloneGraph.java" afterPath="$PROJECT_DIR$/src/leetcode/CloneGraph.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSum.java" afterPath="$PROJECT_DIR$/src/leetcode/CombinationSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CombinationSum2.java" afterPath="$PROJECT_DIR$/src/leetcode/CombinationSum2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Combinations.java" afterPath="$PROJECT_DIR$/src/leetcode/Combinations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CompleteCircuit.java" afterPath="$PROJECT_DIR$/src/leetcode/CompleteCircuit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ConnectRightPointer.java" afterPath="$PROJECT_DIR$/src/leetcode/ConnectRightPointer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.java" afterPath="$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Convert.java" afterPath="$PROJECT_DIR$/src/leetcode/Convert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CopyListWithRandomPointer.java" afterPath="$PROJECT_DIR$/src/leetcode/CopyListWithRandomPointer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CountAndSay.java" afterPath="$PROJECT_DIR$/src/leetcode/CountAndSay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DecodeWays.java" afterPath="$PROJECT_DIR$/src/leetcode/DecodeWays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DistinctSubsequences.java" afterPath="$PROJECT_DIR$/src/leetcode/DistinctSubsequences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DivideTwoInteger.java" afterPath="$PROJECT_DIR$/src/leetcode/DivideTwoInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/EditDistance.java" afterPath="$PROJECT_DIR$/src/leetcode/EditDistance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FindSubstring.java" afterPath="$PROJECT_DIR$/src/leetcode/FindSubstring.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FindSumOfPath.java" afterPath="$PROJECT_DIR$/src/leetcode/FindSumOfPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FirstMissingPositive.java" afterPath="$PROJECT_DIR$/src/leetcode/FirstMissingPositive.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FlattenLinkedList.java" afterPath="$PROJECT_DIR$/src/leetcode/FlattenLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/FourSum.java" afterPath="$PROJECT_DIR$/src/leetcode/FourSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GenerateMatrix.java" afterPath="$PROJECT_DIR$/src/leetcode/GenerateMatrix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GenerateParentheses.java" afterPath="$PROJECT_DIR$/src/leetcode/GenerateParentheses.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GeneratePattern.java" afterPath="$PROJECT_DIR$/src/leetcode/GeneratePattern.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GetPermutation.java" afterPath="$PROJECT_DIR$/src/leetcode/GetPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GetRowTriangle.java" afterPath="$PROJECT_DIR$/src/leetcode/GetRowTriangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GrayCodeSequence.java" afterPath="$PROJECT_DIR$/src/leetcode/GrayCodeSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HasPathSum.java" afterPath="$PROJECT_DIR$/src/leetcode/HasPathSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HasPathSum2.java" afterPath="$PROJECT_DIR$/src/leetcode/HasPathSum2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsertInterval.java" afterPath="$PROJECT_DIR$/src/leetcode/InsertInterval.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsertionSortList.java" afterPath="$PROJECT_DIR$/src/leetcode/InsertionSortList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntegerToRoman.java" afterPath="$PROJECT_DIR$/src/leetcode/IntegerToRoman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InterleavingString.java" afterPath="$PROJECT_DIR$/src/leetcode/InterleavingString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Interval.java" afterPath="$PROJECT_DIR$/src/leetcode/Interval.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsHeightBalanaced.java" afterPath="$PROJECT_DIR$/src/leetcode/IsHeightBalanaced.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsMatch.java" afterPath="$PROJECT_DIR$/src/leetcode/IsMatch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsPalindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/IsPalindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsScramble.java" afterPath="$PROJECT_DIR$/src/leetcode/IsScramble.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsSymmetric.java" afterPath="$PROJECT_DIR$/src/leetcode/IsSymmetric.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsValidBinaryTree.java" afterPath="$PROJECT_DIR$/src/leetcode/IsValidBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Jump2.java" afterPath="$PROJECT_DIR$/src/leetcode/Jump2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LRUCache.java" afterPath="$PROJECT_DIR$/src/leetcode/LRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LargestConsecutiveSequence.java" afterPath="$PROJECT_DIR$/src/leetcode/LargestConsecutiveSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LargestRectangleArea.java" afterPath="$PROJECT_DIR$/src/leetcode/LargestRectangleArea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LengthOfLastWord.java" afterPath="$PROJECT_DIR$/src/leetcode/LengthOfLastWord.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LengthOfLongestSubstring.java" afterPath="$PROJECT_DIR$/src/leetcode/LengthOfLongestSubstring.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LetterCombinationOfaPhoneBook.java" afterPath="$PROJECT_DIR$/src/leetcode/LetterCombinationOfaPhoneBook.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LevelOrderTraversalBottom.java" afterPath="$PROJECT_DIR$/src/leetcode/LevelOrderTraversalBottom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LinkedLIstCycleII.java" afterPath="$PROJECT_DIR$/src/leetcode/LinkedLIstCycleII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LinkedListCycle.java" afterPath="$PROJECT_DIR$/src/leetcode/LinkedListCycle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ListNode.java" afterPath="$PROJECT_DIR$/src/leetcode/ListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/LongestPalindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LongestValidParenthes.java" afterPath="$PROJECT_DIR$/src/leetcode/LongestValidParenthes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaxDepth.java" afterPath="$PROJECT_DIR$/src/leetcode/MaxDepth.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaxSubArray.java" afterPath="$PROJECT_DIR$/src/leetcode/MaxSubArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MaximalRectangle.java" afterPath="$PROJECT_DIR$/src/leetcode/MaximalRectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MedianOfTwoSortedArray.java" afterPath="$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeIntervals.java" afterPath="$PROJECT_DIR$/src/leetcode/MergeIntervals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeKLists.java" afterPath="$PROJECT_DIR$/src/leetcode/MergeKLists.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeThreeLists.java" afterPath="$PROJECT_DIR$/src/leetcode/MergeThreeLists.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeTwoSortedArraysIntoOne.java" afterPath="$PROJECT_DIR$/src/leetcode/MergeTwoSortedArraysIntoOne.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MinPathSum.java" afterPath="$PROJECT_DIR$/src/leetcode/MinPathSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MinimumDepth.java" afterPath="$PROJECT_DIR$/src/leetcode/MinimumDepth.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/src/leetcode/MinimumWindowSubstring.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NextPermutation.java" afterPath="$PROJECT_DIR$/src/leetcode/NextPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NthNodeFromTheEnd.java" afterPath="$PROJECT_DIR$/src/leetcode/NthNodeFromTheEnd.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/leetcode/PalindromeNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PalindromePartioningII.java" afterPath="$PROJECT_DIR$/src/leetcode/PalindromePartioningII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PalindromePartitioning.java" afterPath="$PROJECT_DIR$/src/leetcode/PalindromePartitioning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Partition.java" afterPath="$PROJECT_DIR$/src/leetcode/Partition.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutation.java" afterPath="$PROJECT_DIR$/src/leetcode/Permutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutation2.java" afterPath="$PROJECT_DIR$/src/leetcode/Permutation2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PlusOneToDigits.java" afterPath="$PROJECT_DIR$/src/leetcode/PlusOneToDigits.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PostorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/PostorderTreeTraversal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Pow.java" afterPath="$PROJECT_DIR$/src/leetcode/Pow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RandomListNode.java" afterPath="$PROJECT_DIR$/src/leetcode/RandomListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RecoverBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/leetcode/RecoverBinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RegularExpressionMatching.java" afterPath="$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromList.java" afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesFromList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromListII.java" afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesFromListII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicatesII.java" afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveElement.java" afterPath="$PROJECT_DIR$/src/leetcode/RemoveElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReoderList.java" afterPath="$PROJECT_DIR$/src/leetcode/ReoderList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RestoreIpAddress.java" afterPath="$PROJECT_DIR$/src/leetcode/RestoreIpAddress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Reverse.java" afterPath="$PROJECT_DIR$/src/leetcode/Reverse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseBetween.java" afterPath="$PROJECT_DIR$/src/leetcode/ReverseBetween.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseInK.java" afterPath="$PROJECT_DIR$/src/leetcode/ReverseInK.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RomanToInteger.java" afterPath="$PROJECT_DIR$/src/leetcode/RomanToInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RotateImage.java" afterPath="$PROJECT_DIR$/src/leetcode/RotateImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RotateList.java" afterPath="$PROJECT_DIR$/src/leetcode/RotateList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SameTree.java" afterPath="$PROJECT_DIR$/src/leetcode/SameTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchForARange.java" afterPath="$PROJECT_DIR$/src/leetcode/SearchForARange.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchInASortedArray.java" afterPath="$PROJECT_DIR$/src/leetcode/SearchInASortedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/leetcode/SearchInaRotatedSortedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchInsert.java" afterPath="$PROJECT_DIR$/src/leetcode/SearchInsert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SearchMatrix.java" afterPath="$PROJECT_DIR$/src/leetcode/SearchMatrix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SetNextInAnyTree.java" afterPath="$PROJECT_DIR$/src/leetcode/SetNextInAnyTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SetZeroes.java" afterPath="$PROJECT_DIR$/src/leetcode/SetZeroes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SimplifyPaths.java" afterPath="$PROJECT_DIR$/src/leetcode/SimplifyPaths.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleNumber.java" afterPath="$PROJECT_DIR$/src/leetcode/SingleNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleNumberII.java" afterPath="$PROJECT_DIR$/src/leetcode/SingleNumberII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SolveQueens.java" afterPath="$PROJECT_DIR$/src/leetcode/SolveQueens.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortColors.java" afterPath="$PROJECT_DIR$/src/leetcode/SortColors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortList.java" afterPath="$PROJECT_DIR$/src/leetcode/SortList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortedArrayToBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/leetcode/SortedArrayToBinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortedListBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/leetcode/SortedListBinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SpriralOrder.java" afterPath="$PROJECT_DIR$/src/leetcode/SpriralOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sqrt.java" afterPath="$PROJECT_DIR$/src/leetcode/Sqrt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/StrStr.java" afterPath="$PROJECT_DIR$/src/leetcode/StrStr.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/StringMultiply.java" afterPath="$PROJECT_DIR$/src/leetcode/StringMultiply.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Subsets.java" afterPath="$PROJECT_DIR$/src/leetcode/Subsets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SubsetsWithDup.java" afterPath="$PROJECT_DIR$/src/leetcode/SubsetsWithDup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SurrounderRegions.java" afterPath="$PROJECT_DIR$/src/leetcode/SurrounderRegions.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SwapPairs.java" afterPath="$PROJECT_DIR$/src/leetcode/SwapPairs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ThreeSum.java" afterPath="$PROJECT_DIR$/src/leetcode/ThreeSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ThreeSumClosest.java" afterPath="$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TotalNQueens.java" afterPath="$PROJECT_DIR$/src/leetcode/TotalNQueens.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Trap.java" afterPath="$PROJECT_DIR$/src/leetcode/Trap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TreeNode.java" afterPath="$PROJECT_DIR$/src/leetcode/TreeNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Triangle.java" afterPath="$PROJECT_DIR$/src/leetcode/Triangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TwoSum.java" afterPath="$PROJECT_DIR$/src/leetcode/TwoSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UndirectedGraphNode.java" afterPath="$PROJECT_DIR$/src/leetcode/UndirectedGraphNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTrees.java" afterPath="$PROJECT_DIR$/src/leetcode/UniqueBinarySearchTrees.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java" afterPath="$PROJECT_DIR$/src/leetcode/UniqueBinarySearchTreesII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UniquePaths.java" afterPath="$PROJECT_DIR$/src/leetcode/UniquePaths.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/UniquePathsWithObstacles.java" afterPath="$PROJECT_DIR$/src/leetcode/UniquePathsWithObstacles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ValidNumber.java" afterPath="$PROJECT_DIR$/src/leetcode/ValidNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ValidParentheses.java" afterPath="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ValidSudoku.java" afterPath="$PROJECT_DIR$/src/leetcode/ValidSudoku.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WordBreak.java" afterPath="$PROJECT_DIR$/src/leetcode/WordBreak.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WordBreakII.java" afterPath="$PROJECT_DIR$/src/leetcode/WordBreakII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WordLadderII.java" afterPath="$PROJECT_DIR$/src/leetcode/WordLadderII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WordSearch.java" afterPath="$PROJECT_DIR$/src/leetcode/WordSearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Word_Ledder.java" afterPath="$PROJECT_DIR$/src/leetcode/Word_Ledder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ZigzagLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/leetcode/ZigzagLevelOrderTraversal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -26,7 +178,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/CountAndSay.java" line="28" class="CountAndSay" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/CountAndSay.java" line="30" class="leetcode.CountAndSay" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -41,7 +193,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/CountAndSay.java" line="14" class="CountAndSay" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/CountAndSay.java" line="16" class="leetcode.CountAndSay" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -56,7 +208,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/CombinationSum.java" line="32" class="CombinationSum" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/CombinationSum.java" line="32" class="leetcode.CombinationSum" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -71,7 +223,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/StringMultiply.java" line="6" class="StringMultiply" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/StringMultiply.java" line="7" class="leetcode.StringMultiply" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -86,7 +238,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/StringMultiply.java" line="62" class="StringMultiply" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/StringMultiply.java" line="60" class="leetcode.StringMultiply" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -101,7 +253,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Permutation.java" line="33" class="Permutation" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Permutation.java" line="34" class="leetcode.Permutation" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -116,7 +268,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Permutation.java" line="19" class="Permutation" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Permutation.java" line="20" class="leetcode.Permutation" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -131,7 +283,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Permutation2.java" line="48" class="Permutation2" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Permutation2.java" line="48" class="leetcode.Permutation2" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -146,7 +298,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Permutation2.java" line="25" class="Permutation2" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Permutation2.java" line="24" class="leetcode.Permutation2" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -161,7 +313,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Anagrams.java" line="7" class="Anagrams" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Anagrams.java" line="7" class="leetcode.Anagrams" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -176,7 +328,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Anagrams.java" line="0" class="Anagrams.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Anagrams.java" line="0" class="Anagrams.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -191,7 +343,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SolveQueens.java" line="53" class="SolveQueens" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SolveQueens.java" line="54" class="leetcode.SolveQueens" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -206,7 +358,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/TotalNQueens.java" line="33" class="TotalNQueens" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/TotalNQueens.java" line="32" class="leetcode.TotalNQueens" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -221,7 +373,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/TotalNQueens.java" line="23" class="TotalNQueens" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/TotalNQueens.java" line="23" class="leetcode.TotalNQueens" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -236,7 +388,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SpriralOrder.java" line="44" class="SpriralOrder" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SpriralOrder.java" line="42" class="leetcode.SpriralOrder" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -251,7 +403,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SpriralOrder.java" line="20" class="SpriralOrder" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SpriralOrder.java" line="21" class="leetcode.SpriralOrder" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -266,7 +418,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/MergeIntervals.java" line="0" class="MergeIntervals.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/MergeIntervals.java" line="0" class="MergeIntervals.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -281,7 +433,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="0" class="InsertInterval.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/InsertInterval.java" line="0" class="InsertInterval.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -296,7 +448,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="40" class="InsertInterval" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/InsertInterval.java" line="38" class="leetcode.InsertInterval" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -311,7 +463,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/InsertInterval.java" line="19" class="InsertInterval" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/InsertInterval.java" line="20" class="leetcode.InsertInterval" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -326,7 +478,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/GenerateMatrix.java" line="44" class="GenerateMatrix" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/GenerateMatrix.java" line="42" class="leetcode.GenerateMatrix" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -341,7 +493,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ValidNumber.java" line="0" class="Input_Type" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ValidNumber.java" line="0" class="ValidNumber.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -356,7 +508,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ValidNumber.java" line="56" class="ValidNumber" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ValidNumber.java" line="57" class="leetcode.ValidNumber" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -371,7 +523,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ValidNumber.java" line="35" class="ValidNumber" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ValidNumber.java" line="36" class="leetcode.ValidNumber" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -386,7 +538,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ValidNumber.java" line="33" class="ValidNumber" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ValidNumber.java" line="32" class="leetcode.ValidNumber" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -401,7 +553,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Sqrt.java" line="25" class="Sqrt" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Sqrt.java" line="23" class="leetcode.Sqrt" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -416,7 +568,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Sqrt.java" line="18" class="Sqrt" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Sqrt.java" line="19" class="leetcode.Sqrt" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -431,7 +583,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SimplifyPaths.java" line="3" class="InputType" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SimplifyPaths.java" line="4" class="leetcode.InputType" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -446,7 +598,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SimplifyPaths.java" line="4" class="InputType" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SimplifyPaths.java" line="5" class="leetcode.InputType" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -461,7 +613,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SimplifyPaths.java" line="0" class="InputType" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SimplifyPaths.java" line="0" class="SimplifyPaths.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -476,7 +628,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SortColors.java" line="29" class="SortColors" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SortColors.java" line="27" class="leetcode.SortColors" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -491,7 +643,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SortColors.java" line="19" class="SortColors" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SortColors.java" line="20" class="leetcode.SortColors" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -506,7 +658,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java" line="75" class="MinimumWindowSubstring" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/MinimumWindowSubstring.java" line="74" class="leetcode.MinimumWindowSubstring" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -521,7 +673,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/MinimumWindowSubstring.java" line="59" class="MinimumWindowSubstring" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/MinimumWindowSubstring.java" line="58" class="leetcode.MinimumWindowSubstring" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -536,7 +688,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SearchInaRotatedSortedArray.java" line="0" class="SearchInaRotatedSortedArray.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SearchInaRotatedSortedArray.java" line="0" class="SearchInaRotatedSortedArray.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -551,7 +703,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/MaximalRectangle.java" line="38" class="MaximalRectangle" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/MaximalRectangle.java" line="39" class="leetcode.MaximalRectangle" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -566,7 +718,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/MaximalRectangle.java" line="23" class="MaximalRectangle" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/MaximalRectangle.java" line="22" class="leetcode.MaximalRectangle" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -581,7 +733,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/IsScramble.java" line="14" class="IsScramble" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/IsScramble.java" line="15" class="leetcode.IsScramble" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -596,7 +748,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/IsScramble.java" line="40" class="IsScramble" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/IsScramble.java" line="39" class="leetcode.IsScramble" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -611,7 +763,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/GrayCodeSequence.java" line="32" class="GrayCodeSequence" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/GrayCodeSequence.java" line="33" class="leetcode.GrayCodeSequence" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -626,7 +778,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/GrayCodeSequence.java" line="27" class="GrayCodeSequence" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/GrayCodeSequence.java" line="28" class="leetcode.GrayCodeSequence" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -641,7 +793,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/InterleavingString.java" line="0" class="InterleavingString" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/InterleavingString.java" line="0" class="InterleavingString.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -656,7 +808,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/BST.java" line="40" class="BST" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/BST.java" line="37" class="leetcode.BST" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -671,7 +823,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" line="29" class="ConstructBinaryTreeUsingPreAndInOrderTraversal" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" line="30" class="leetcode.ConstructBinaryTreeUsingPreAndInOrderTraversal" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -686,7 +838,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" line="27" class="ConstructBinaryTreeUsingPreAndInOrderTraversal" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/ConstructBinaryTreeUsingPreAndInOrderTraversal.java" line="27" class="leetcode.ConstructBinaryTreeUsingPreAndInOrderTraversal" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -701,7 +853,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/DistinctSubsequences.java" line="22" class="DistinctSubsequences" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/DistinctSubsequences.java" line="23" class="leetcode.DistinctSubsequences" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -716,7 +868,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/DistinctSubsequences.java" line="18" class="DistinctSubsequences" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/DistinctSubsequences.java" line="19" class="leetcode.DistinctSubsequences" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -731,7 +883,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Triangle.java" line="7" class="Triangle" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Triangle.java" line="8" class="leetcode.Triangle" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -746,7 +898,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Triangle.java" line="17" class="Triangle" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/Triangle.java" line="18" class="leetcode.Triangle" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -761,7 +913,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/SurrounderRegions.java" line="0" class="SurrounderRegions.java" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/SurrounderRegions.java" line="0" class="SurrounderRegions.java" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -776,7 +928,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/WordBreakII.java" line="23" class="WordBreakII" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/WordBreakII.java" line="24" class="leetcode.WordBreakII" package="leetcode">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -791,7 +943,22 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/WordBreakII.java" line="31" class="WordBreakII" package="">
+      <breakpoint url="file://$PROJECT_DIR$/src/leetcode/WordBreakII.java" line="31" class="leetcode.WordBreakII" package="leetcode">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/topcoder/SRM457.java" line="57" class="topcoder.SRM457" package="topcoder">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -853,94 +1020,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThreeSum.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="9" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="720">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ThreeSumClosest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreeSumClosest.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="45" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
+            <state line="1" column="45" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MedianOfTwoSortedArray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArray.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="615">
+            <state line="3" column="60" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
+            <state line="3" column="54" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RomanToInteger.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
+            <state line="1" column="49" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="IntegerToRoman.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="345">
+            <state line="3" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PalindromeNumber.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="22" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="390">
+            <state line="10" column="22" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495">
+            <state line="9" column="9" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
+            <state line="3" column="60" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NegativePositiveAlternate.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NegativePositiveAlternate.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geekforgeek/NegativePositiveAlternate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="53" selection-start="763" selection-end="763" vertical-scroll-proportion="0.8353511" vertical-offset="0" max-vertical-offset="1005">
+            <state line="23" column="53" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1005">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SRM457.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/topcoder/SRM457.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="3" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12" vertical-offset="45" max-vertical-offset="975">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -980,6 +1147,7 @@
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/RegularExpressionMatching.java" />
         <option value="$PROJECT_DIR$/src/geekforgeek/NegativePositiveAlternate.java" />
+        <option value="$PROJECT_DIR$/src/topcoder/SRM457.java" />
       </list>
     </option>
   </component>
@@ -1020,7 +1188,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1052,6 +1220,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topcoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1066,14 +1238,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="geekforgeek" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1099,16 +1267,17 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NegativePositiveAlternate">
+  <component name="RunManager" selected="Application.SRM457">
     <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1131,25 +1300,31 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="NegativePositiveAlternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SRM457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="geekforgeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="geekforgeek.NegativePositiveAlternate" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="topcoder.SRM457" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="leetcode" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1370,21 +1545,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -1404,9 +1564,24 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="false" name="Permutation2" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Permutation2" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Permutation2" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1430,11 +1605,11 @@
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Permutation2" />
       <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NegativePositiveAlternate" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SRM457" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.NegativePositiveAlternate" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SRM457" />
         <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -1468,12 +1643,13 @@
       <created>1381149759417</created>
       <updated>1381149759417</updated>
       <workItem from="1408951560414" duration="888000" />
-      <workItem from="1409107741773" duration="3667000" />
+      <workItem from="1409107741773" duration="3722000" />
+      <workItem from="1409579615057" duration="5201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4555000" />
+    <option name="totallyTimeSpent" value="9811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1276" height="778" extended-state="6" />
@@ -1484,9 +1660,10 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37710437" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3762811" sideWeight="0.89059967" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3843594" sideWeight="0.10372771" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1499,13 +1676,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1669279" sideWeight="0.6228956" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32064423" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32064423" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6195286" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18395463" sideWeight="0.6141215" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1530,63 +1706,135 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="9" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreeSumClosest.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="45" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="22" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="9" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekforgeek/NegativePositiveAlternate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1005">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="45" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
           <folding />
@@ -1602,99 +1850,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourSum.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="37" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="9" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreeSumClosest.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="45" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="22" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="9" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="24" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
-            <element signature="e#0#567#0" expanded="false" />
-            <element signature="e#243#252#0" expanded="false" />
             <element signature="method#preorderTraversalUtil#0;class#BinaryTreePreorderTraversal#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PostorderTreeTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PostorderTreeTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="68" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
             <element signature="method#postorderTraversal#0;class#PostorderTreeTraversal#0" expanded="false" />
-            <element signature="e#244#253#0" expanded="false" />
             <element signature="method#postorder#0;class#PostorderTreeTraversal#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DivideTwoInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/DivideTwoInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="52" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
@@ -1703,18 +1948,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#169#191#0" expanded="false" />
-            <element signature="e#358#369#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NthNodeFromTheEnd.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/NthNodeFromTheEnd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="65" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
@@ -1723,96 +1966,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LetterCombinationOfaPhoneBook.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LetterCombinationOfaPhoneBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="70" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#261#278#0" expanded="false" />
             <element signature="initializer##0;class#LetterCombinationOfaPhoneBook#0" expanded="false" />
             <element signature="method#letterCombinations#0;class#LetterCombinationOfaPhoneBook#0" expanded="false" />
-            <element signature="e#570#578#0" expanded="false" />
             <element signature="method#getValue#0;class#LetterCombinationOfaPhoneBook#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FourSum.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="37" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="9" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreeSumClosest.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="45" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="1" column="45" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MedianOfTwoSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="3" column="60" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="54" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="3" column="54" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="1" column="49" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="49" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="3" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="10" column="22" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="9" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="9" column="9" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="60" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+        <state line="3" column="60" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geekforgeek/NegativePositiveAlternate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="53" selection-start="763" selection-end="763" vertical-scroll-proportion="0.8353511" vertical-offset="0" max-vertical-offset="1005">
+        <state line="23" column="53" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1005">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topcoder/SRM457.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12" vertical-offset="45" max-vertical-offset="975">
+          <folding />
         </state>
       </provider>
     </entry>
