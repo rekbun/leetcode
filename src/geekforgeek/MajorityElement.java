@@ -1,3 +1,5 @@
+package geekforgeek;
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.Collections;
@@ -17,7 +19,7 @@ public class MajorityElement {
 			}
 			i++;
 		}
-		
+
 		if(cnt==array.length/2) {
 			System.out.println(cnt);
 		}
