@@ -1,3 +1,6 @@
 out/
 bin/
 .idea/workspace.xml
+.DS_Store
+*.class
+.idea
