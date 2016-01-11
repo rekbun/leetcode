@@ -1,6 +1,5 @@
 package geekforgeek;
 
-import com.sun.tools.doclets.internal.toolkit.util.SourceToHTMLConverter;
 
 import javax.xml.bind.SchemaOutputResolver;
 
